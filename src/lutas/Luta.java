@@ -87,7 +87,4 @@ public class Luta implements InterfaceLuta {
   public void setAprovado(boolean aprovado) {
     this.aprovado = aprovado;
   }
-
-  
-  
 }
